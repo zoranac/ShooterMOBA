@@ -1,0 +1,33 @@
+Initialize engine version: 5.1.3f1 (b0a23b31c3d8)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 650 (ID=0xfc6)
+    Vendor:   NVIDIA
+    VRAM:     971 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: E:\Asteroids\ShooterMOBA\TEST_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading E:\Asteroids\ShooterMOBA\TEST_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: E:\Asteroids\ShooterMOBA\TEST_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading E:\Asteroids\ShooterMOBA\TEST_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: E:\Asteroids\ShooterMOBA\TEST_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading E:\Asteroids\ShooterMOBA\TEST_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: E:\Asteroids\ShooterMOBA\TEST_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading E:\Asteroids\ShooterMOBA\TEST_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: E:\Asteroids\ShooterMOBA\TEST_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading E:\Asteroids\ShooterMOBA\TEST_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: E:\Asteroids\ShooterMOBA\TEST_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading E:\Asteroids\ShooterMOBA\TEST_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+Platform assembly: E:\Asteroids\ShooterMOBA\TEST_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.227 seconds
+desktop: 1600x1200 60Hz; virtual: 3200x1200 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+Platform assembly: E:\Asteroids\ShooterMOBA\TEST_Data\Managed\System.dll (this message is harmless)
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.501081 ms
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 352.
+Total: 0.374905 ms (FindLiveObjects: 0.035920 ms CreateObjectMapping: 0.022337 ms MarkObjects: 0.311515 ms  DeleteObjects: 0.004527 ms)
+
